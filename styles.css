@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: lightseagreen;
+    
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    font-weight: 300;
+    font-family: 'Lato', sans-serif;
+}
+
+#value {
+    display: flex;
+    justify-content: center;
+    font-weight: 900;
+    font-size: 100px;
+    font-family: 'Lato', sans-serif;
+}
+
+
+.buttons {
+    color: beige;
+    padding: 5px 10px;
+    border-radius: 8px;
+}
+
